@@ -1,0 +1,48 @@
+- id: binge
+  name: Binge
+  metadata:
+    description: Instagram-shaped social + discovery layer for Stash - stories, vertical reel, performer profiles, and StashDB-powered Follow/Discover. (Chinese localization)
+  version: 0.4.17
+  date: 2026-08-03 00:08:51
+  path: https://github.com/k6cc/binge-cn/releases/download/v0.4.17/binge-v0.4.17.zip
+  sha256: 04235c0b001c3e593e893c9a5c3593ecca7e0e72b4d71f8617b6aa62c7f936a7
+- id: nfoSceneParser
+  name: nfoSceneParser
+  metadata:
+    description: Fills scene data from NFO or filename pattern (jav fork - do NOT install alongside upstream nfoSceneParser)
+  version: 1.5.0
+  date: 2026-08-03 00:00:00
+  path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.5.0/nfoSceneParser-v1.5.0.zip
+  sha256: e4c80fabbf90986586cbe9e3cc65d2477f9e14abf3182604137f7d8e77569068
+- id: sceneTranslate
+  name: Scene Translate
+  metadata:
+    description: Add one-click translate buttons to scene edit page. Supports Google Free, Google API, Microsoft, Baidu, DeepL, and OpenAI engines.
+  version: 2.3.0
+  date: 2026-08-03 00:00:00
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslate-v2.3.0/sceneTranslate-v2.3.0.zip
+  sha256: 62f081429b6573e3c94cba47f6c2b9831c28f638fa4b862c286ae8d8fd48a7e4
+- id: sceneGallerySync
+  name: sceneGallerySync
+  metadata:
+    description: Automatically creates galleries for scenes with matching metadata, cover, and fanart images
+  version: 1.5.0
+  date: 2026-08-03 00:00:00
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.5.0/sceneGallerySync-v1.5.0.zip
+  sha256: 52a825bca1d6976f2f1888bafd6789dd6d0174c7dfc340dc4066626d3ef6401c
+- id: studioMerge
+  name: Studio Merge
+  metadata:
+    description: Add merge button and functionality to the Studios page, allowing you to merge multiple studios into one.
+  version: 1.0.0
+  date: 2026-08-03 00:00:00
+  path: https://github.com/k6cc/stash-studio-tools/releases/download/studioMerge-v1.0.0/studioMerge-v1.0.0.zip
+  sha256: 29715af668989622abdbbfe7dc144ba22ef1f244ac5133e7ec0c228de1887173
+- id: studioSearch
+  name: Studio Search
+  metadata:
+    description: Add a StashDB search button to the studio detail page. Searches StashDB and updates studio info directly to database.
+  version: 2.2.0
+  date: 2026-08-03 00:00:00
+  path: https://github.com/k6cc/stash-studio-tools/releases/download/studioSearch-v2.2.0/studioSearch-v2.2.0.zip
+  sha256: 38fb744d3aa1d823a88f8b1dccf52fd2294763734974f9655e0db755095d4f94
