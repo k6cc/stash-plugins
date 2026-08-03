@@ -5,7 +5,7 @@
   version: 0.4.18
   date: 2026-08-04 02:14:04
   path: https://github.com/k6cc/binge-cn/releases/download/v0.4.18/binge-v0.4.18.zip
-  sha256: 20a775d73b9b4dd220b2152193aa796ac18a5155d674147c95ce963e1aa66f08
+  sha256: c40855e6f1bd4d6a11779c7687a172a2bb73aeb058b068f072d0c9356977a090
 - id: nfoSceneParser
   name: nfoSceneParser
   metadata:
