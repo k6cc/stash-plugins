@@ -10,10 +10,10 @@
   name: nfoSceneParser
   metadata:
     description: Fills scene data from NFO or filename pattern (jav fork - do NOT install alongside upstream nfoSceneParser)
-  version: 1.5.0
+  version: 1.6.0
   date: 2026-08-03 00:00:00
-  path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.5.0/nfoSceneParser-v1.5.0.zip
-  sha256: e4c80fabbf90986586cbe9e3cc65d2477f9e14abf3182604137f7d8e77569068
+  path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.6.0/nfoSceneParser-v1.6.0.zip
+  sha256: 12288202650117586befc4c9eb96778f2346086d3b67665c12e9d27f804239ec
 - id: sceneTranslate
   name: Scene Translate
   metadata:
@@ -26,7 +26,7 @@
   name: sceneGallerySync
   metadata:
     description: Automatically creates galleries for scenes with matching metadata, cover, and fanart images
-  version: 1.5.0
+  version: 1.6.0
   date: 2026-08-03 00:00:00
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.5.0/sceneGallerySync-v1.5.0.zip
   sha256: 52a825bca1d6976f2f1888bafd6789dd6d0174c7dfc340dc4066626d3ef6401c
