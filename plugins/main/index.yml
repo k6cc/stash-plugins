@@ -30,19 +30,11 @@
   date: 2026-08-03 00:00:00
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.5.0/sceneGallerySync-v1.5.0.zip
   sha256: 52a825bca1d6976f2f1888bafd6789dd6d0174c7dfc340dc4066626d3ef6401c
-- id: studioMerge
-  name: Studio Merge
+- id: studioTools
+  name: Studio Tools
   metadata:
-    description: Add merge button and functionality to the Studios page, allowing you to merge multiple studios into one.
+    description: Studio page toolkit - merge studios and search/update from StashDB.
   version: 1.0.0
   date: 2026-08-03 00:00:00
-  path: https://github.com/k6cc/stash-studio-tools/releases/download/studioMerge-v1.0.0/studioMerge-v1.0.0.zip
-  sha256: 29715af668989622abdbbfe7dc144ba22ef1f244ac5133e7ec0c228de1887173
-- id: studioSearch
-  name: Studio Search
-  metadata:
-    description: Add a StashDB search button to the studio detail page. Searches StashDB and updates studio info directly to database.
-  version: 2.2.0
-  date: 2026-08-03 00:00:00
-  path: https://github.com/k6cc/stash-studio-tools/releases/download/studioSearch-v2.2.0/studioSearch-v2.2.0.zip
-  sha256: e2b4b7dd92f30eac1da28c2acc0a07786c5b3c4c4884e68faef627e8de7c9605
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioTools-v1.0.0/studioTools-v1.0.0.zip
+  sha256: ed6d9313b735ea0bd68fd77727bbf441f0fd2d17f9119f3817934a5dd0a1ccf2
