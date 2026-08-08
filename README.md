@@ -19,12 +19,11 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 
 | 插件 | 版本 | 类型 | 说明 | 源码仓库 |
 |------|------|------|------|---------|
-| Binge | 0.4.17 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
-| nfoSceneParser | 1.5.0 | Python + UI | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
-| Scene Translate | 2.3.0 | Python + UI | 场景编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| sceneGallerySync | 1.5.0 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Studio Merge | 1.0.0 | UI | 工作室合并 | [stash-studio-tools](https://github.com/k6cc/stash-studio-tools) |
-| Studio Search | 2.2.0 | UI | 工作室 StashDB 搜索 | [stash-studio-tools](https://github.com/k6cc/stash-studio-tools) |
+| Binge | 0.5.5 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
+| nfoSceneParser | 1.6.1 | Python + UI | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
+| Scene Translate | 2.4.0 | Python + UI | 场景编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| sceneGallerySync | 1.6.0 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Studio Tools | 1.0.0 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
@@ -37,8 +36,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 ### UI 插件（无需 Python）
 
 - Binge
-- Studio Merge
-- Studio Search
+- Studio Tools
 
 ### Python 插件（需 Python 3.x + requests）
 
@@ -86,8 +84,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 |------|------|
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync 源码 + Release |
-| [stash-studio-tools](https://github.com/k6cc/stash-studio-tools) | studioMerge + studioSearch 源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools 源码 + Release |
 
 ## License
 
