@@ -26,10 +26,10 @@
   name: sceneGallerySync
   metadata:
     description: Automatically creates galleries for scenes with matching metadata, cover, and fanart images
-  version: 1.6.0
-  date: 2026-08-05 23:07:23
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.6.0/sceneGallerySync-v1.6.0.zip
-  sha256: d81bc1ed3f2302a07ce40b0dbac086c9ac84d8db09ea06df72298e4e53107630
+  version: 1.6.1
+  date: 2026-08-14 21:35:26
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.6.1/sceneGallerySync-v1.6.1.zip
+  sha256: 513d331a3bc146046d8bd7a5d1cc35446af713c4897176b3c85ee35c56aa9d43
 - id: studioTools
   name: Studio Tools
   metadata:
