@@ -18,10 +18,10 @@
   name: Scene Translate
   metadata:
     description: Add one-click translate buttons to scene edit page. Supports Google Free, Google API, Microsoft, Baidu, DeepL, and OpenAI engines.
-  version: 2.6.2
-  date: 2026-08-16 10:12:29
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslate-v2.6.2/sceneTranslate-v2.6.2.zip
-  sha256: 5e118e96a7481eab93e20f8e9bdb6de0aaa1e9cd152aa72cfd4dffae81e9da0e
+  version: 2.6.3
+  date: 2026-08-16 10:22:05
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslate-v2.6.3/sceneTranslate-v2.6.3.zip
+  sha256: 95d86c2ea49446391653aefc1c4462c7f662ade5823d7de426fc3624b829459f
 - id: sceneGallerySync
   name: sceneGallerySync
   metadata:
