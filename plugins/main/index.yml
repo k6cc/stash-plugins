@@ -2,10 +2,10 @@
   name: Binge
   metadata:
     description: Instagram-shaped social + discovery layer for Stash - stories, vertical reel, performer profiles, and StashDB-powered Follow/Discover. (Chinese localization)
-  version: 0.6.8
-  date: 2026-08-23 11:01:14
-  path: https://github.com/k6cc/binge-cn/releases/download/v0.6.8/binge-v0.6.8.zip
-  sha256: 159171176d49ba96fdf41b28feb848aeeaa12ba1f95d6677cafa76971ffb3088
+  version: 0.6.9
+  date: 2026-08-24 03:13:30
+  path: https://github.com/k6cc/binge-cn/releases/download/v0.6.9/binge-v0.6.9.zip
+  sha256: 3ea795a798886022ce7c3735a9bcfc328e6a73797fdcab8a31d5690c243636eb
 - id: nfoSceneParser
   name: nfoSceneParser
   metadata:
