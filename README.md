@@ -19,11 +19,11 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 
 | 插件 | 版本 | 类型 | 说明 | 源码仓库 |
 |------|------|------|------|---------|
-| Binge | 0.5.5 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
-| nfoSceneParser | 1.6.1 | Python + UI | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
-| Scene Translate | 2.6.4 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| sceneGallerySync | 1.6.0 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Studio Tools | 1.0.0 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Binge | 0.7.9 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
+| nfoSceneParser | 1.6.2 | Python + UI | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
+| Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| sceneGallerySync | 1.9.1 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Studio Tools | 1.3.1 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 

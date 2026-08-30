@@ -1,0 +1,32 @@
+name: Sync README versions
+
+on:
+  push:
+    paths:
+      - 'plugins/main/index.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync versions from index.yml to README
+        run: python scripts/sync_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          if ! git diff --quiet -- README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: sync plugin versions from index.yml"
+            git push
+          else
+            echo "No version changes - nothing to commit"
+          fi
