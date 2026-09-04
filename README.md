@@ -24,7 +24,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | sceneGallerySync | 1.9.1 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools | 1.5.2 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| JavStashLinker | 1.1.0 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| JavStashLinker | 1.1.1 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
