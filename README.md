@@ -19,7 +19,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 
 | 插件 | 版本 | 类型 | 说明 | 源码仓库 |
 |------|------|------|------|---------|
-| Binge | 0.8.1 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
+| Binge | 0.8.2 | UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
 | nfoSceneParser | 1.6.2 | Python + UI | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
 | Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | sceneGallerySync | 1.9.1 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
