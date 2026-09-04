@@ -24,6 +24,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | sceneGallerySync | 1.9.1 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools | 1.5.2 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| JavStashLinker | 1.0.0 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
@@ -43,6 +44,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 - nfoSceneParser（需 `requests`）
 - Scene Translate（仅标准库，无需 pip 安装）
 - sceneGallerySync（仅标准库，无需 pip 安装）
+- JavStashLinker（需 `requests`）
 
 **Docker 部署**：Stash 官方镜像已预装 Python。
 
@@ -88,7 +90,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 |------|------|
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools 源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker 源码 + Release |
 
 ## License
 
