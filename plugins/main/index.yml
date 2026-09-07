@@ -50,10 +50,10 @@
   name: Performer Merge
   metadata:
     description: Find performers with duplicate names/aliases and merge them into one performer. Requires Stash v0.31.0+.
-  version: 1.5.1
-  date: 2026-09-07 03:06:26
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/performerMerge-v1.5.1/performerMerge-v1.5.1.zip
-  sha256: 072bdacf81226446ca2a04275b95110770d86095e7cd60427249b57894dfeea6
+  version: 1.6.0
+  date: 2026-09-08 01:48:52
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/performerMerge-v1.6.0/performerMerge-v1.6.0.zip
+  sha256: 338dc017f4684a2d2d206145fd965944ea7eb2936db2939b2dd16120cb534e2e
 - id: tagMerge
   name: Tag Merge
   metadata:
