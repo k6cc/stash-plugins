@@ -42,10 +42,10 @@
   name: JavStashLinker
   metadata:
     description: Batch match JAVStash performer IDs via scene-based reverse lookup, code matching, and alias matching
-  version: 1.5.1
-  date: 2026-09-08 12:10:31
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/JavStashLinker-v1.5.1/JavStashLinker-v1.5.1.zip
-  sha256: ab2228e4d469921af65f0cabe1473e292e70ccebc6be768cb30fbd0351d9fb15
+  version: 1.5.2
+  date: 2026-09-08 23:19:49
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/JavStashLinker-v1.5.2/JavStashLinker-v1.5.2.zip
+  sha256: 6dec6b8e2891f99284a9a1aa2f9aaba12d5525170592265ab96c805898db0e7f
 - id: performerMerge
   name: Performer Merge
   metadata:
