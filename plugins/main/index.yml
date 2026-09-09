@@ -74,7 +74,7 @@
   name: Studio Tools Backend
   metadata:
     description: Automatic studio cleanup with zero UI - scrapes new studios from configured Stash-box instances, merges duplicates or fills in-place; a manual task sweeps the backlog.
-  version: 0.0.0
-  date: 2026-09-10 00:30:00
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsBackend-v0.0.0/studioToolsBackend-v0.0.0.zip
-  sha256: 0000000000000000000000000000000000000000000000000000000000000000
+  version: 1.0.0
+  date: 2026-09-10 00:24:37
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsBackend-v1.0.0/studioToolsBackend-v1.0.0.zip
+  sha256: de7fb7cf7f7416cfcd144aa31642768793998cc98d4d00840d0e4f2256abbe85

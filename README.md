@@ -28,7 +28,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Performer Merge | 1.6.2 | UI | 重名演员检测与合并（需 Stash v0.31.0+） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge | 2.4.2 | Python 任务 | 按映射库合并相似 tags | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge Backend | 0.0.0 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Studio Tools Backend | 0.0.0 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Studio Tools Backend | 1.0.0 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
