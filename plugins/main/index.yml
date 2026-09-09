@@ -62,19 +62,20 @@
   date: 2026-09-10 02:53:08
   path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMerge-v2.4.3/tagMerge-v2.4.3.zip
   sha256: 9e43511d7a63545c984d322aa6334675b98b8c220ffd3851a94d923fce44e5f7
-- id: tagMergeBackend
-  name: Tag Merge Backend
+
+- id: tagMergeAuto
+  name: Tag Merge Auto
   metadata:
     description: Automatic tag merge with zero UI - new tags merge into canonical targets on creation, a manual task sweeps pre-existing ones; same local mapping database as Tag Merge.
-  version: 1.0.0
-  date: 2026-09-10 00:24:37
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMergeBackend-v1.0.0/tagMergeBackend-v1.0.0.zip
-  sha256: de872c31a602570ff511c68cddd1406b1c9e1d1565e0c87f05933379f05e510c
-- id: studioToolsBackend
-  name: Studio Tools Backend
+  version: 0.0.0
+  date: 2026-09-10 04:33:11
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMergeAuto-v0.0.0/tagMergeAuto-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
+- id: studioToolsAuto
+  name: Studio Tools Auto
   metadata:
     description: Automatic studio cleanup with zero UI - scrapes new studios from configured Stash-box instances, merges duplicates or fills in-place; a manual task sweeps the backlog.
-  version: 1.0.0
-  date: 2026-09-10 00:24:37
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsBackend-v1.0.0/studioToolsBackend-v1.0.0.zip
-  sha256: de7fb7cf7f7416cfcd144aa31642768793998cc98d4d00840d0e4f2256abbe85
+  version: 0.0.0
+  date: 2026-09-10 04:33:11
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsAuto-v0.0.0/studioToolsAuto-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000

@@ -27,8 +27,8 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | JavStashLinker | 1.5.5 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Performer Merge | 1.6.3 | UI | 重名演员检测与合并（需 Stash v0.31.0+） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge | 2.4.3 | Python 任务 | 按映射库合并相似 tags | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Tag Merge Backend | 1.0.0 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Studio Tools Backend | 1.0.0 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Tag Merge Auto | 1.0.0 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Studio Tools Auto | 1.0.0 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
@@ -48,8 +48,8 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 
 - nfoSceneParser（需 `requests`）
 - Scene Translate（仅标准库，无需 pip 安装）
-- Tag Merge Backend（仅标准库，无需 pip 安装）
-- Studio Tools Backend（仅标准库，无需 pip 安装）
+- Tag Merge Auto（仅标准库，无需 pip 安装）
+- Studio Tools Auto（仅标准库，无需 pip 安装）
 - sceneGallerySync（仅标准库，无需 pip 安装）
 - JavStashLinker（需 `requests`）
 - Tag Merge（需 `requests`）
