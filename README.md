@@ -24,7 +24,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | sceneGallerySync | 1.9.1 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools | 1.5.2 | UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| JavStashLinker | 1.5.4 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| JavStashLinker | 1.5.5 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Performer Merge | 1.6.3 | UI | 重名演员检测与合并（需 Stash v0.31.0+） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge | 2.4.3 | Python 任务 | 按映射库合并相似 tags | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge Backend | 1.0.0 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
