@@ -75,7 +75,7 @@
   name: Studio Tools Auto
   metadata:
     description: Automatic studio cleanup with zero UI - scrapes new studios from configured Stash-box instances, merges duplicates or fills in-place; a manual task sweeps the backlog.
-  version: 1.1.0
-  date: 2026-09-10 20:23:33
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsAuto-v1.1.0/studioToolsAuto-v1.1.0.zip
-  sha256: d503bbd0be193eab1b466bd3eb933329809b9cfd4e3f6a14ba804dbec25797b1
+  version: 1.1.1
+  date: 2026-09-10 20:58:06
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsAuto-v1.1.1/studioToolsAuto-v1.1.1.zip
+  sha256: 111e35b983ebfca543659d946009ce4a5d266942aab72e698b81de468ab36926
