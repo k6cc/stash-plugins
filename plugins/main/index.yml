@@ -79,3 +79,11 @@
   date: 2026-09-11 12:40:24
   path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsAuto-v1.1.2/studioToolsAuto-v1.1.2.zip
   sha256: 880fd35046db7662fd0ad22969f184ad82128caefb513e04de7e1ff831195717
+- id: sceneTranslateAuto
+  name: Scene Translate Auto
+  metadata:
+    description: Automatic scene title/details translation with zero UI - translates on scene create/update, a manual task sweeps the backlog; same engines as Scene Translate.
+  version: 0.0.0
+  date: 2026-09-11 23:30:36
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslateAuto-v0.0.0/sceneTranslateAuto-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000

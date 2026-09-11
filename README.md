@@ -29,6 +29,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Tag Merge | 2.4.3 | Python 任务 | 按映射库合并相似 tags | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge Auto | 1.0.1 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools Auto | 1.1.2 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Scene Translate Auto | 1.0.0 | Python 任务 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
@@ -50,6 +51,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 - Scene Translate（仅标准库，无需 pip 安装）
 - Tag Merge Auto（仅标准库，无需 pip 安装）
 - Studio Tools Auto（仅标准库，无需 pip 安装）
+- Scene Translate Auto（仅标准库，无需 pip 安装）
 - sceneGallerySync（仅标准库，无需 pip 安装）
 - JavStashLinker（需 `requests`）
 - Tag Merge（需 `requests`）
@@ -98,7 +100,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 |------|------|
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker 源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto 源码 + Release |
 
 ## License
 
