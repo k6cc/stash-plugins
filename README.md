@@ -29,7 +29,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Tag Merge | 2.5.0 | Python 任务 | 按映射库合并相似 tags | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Tag Merge Auto | 1.1.0 | Python 任务 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools Auto | 1.1.2 | Python 任务 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Scene Translate Auto | 0.0.0 | Python 任务 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Scene Translate Auto | 1.0.0 | Python 任务 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
