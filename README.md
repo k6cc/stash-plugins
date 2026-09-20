@@ -22,7 +22,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Binge | 0.10.3 | 纯 UI | Instagram 风格社交与发现层（汉化版） | [binge-cn](https://github.com/k6cc/binge-cn) |
 | nfoSceneParser | 1.6.2 | 纯后台 | 从 NFO 或文件名模式填充场景数据 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) |
 | Scene Translate | 2.9.2 | Python + UI | 场景/图片/图库编辑页一键翻译 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| sceneGallerySync | 1.9.2 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| sceneGallerySync | 1.9.3 | Python + UI | 自动创建图库并关联影片 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools | 1.5.3 | 纯 UI | 工作室合并与 StashDB 搜索 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | JavStashLinker | 1.5.8 | Python + UI | 批量匹配 JAVStash 演员 ID | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Performer Merge | 1.6.3 | 纯 UI | 重名演员检测与合并（需 Stash v0.31.0+） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
