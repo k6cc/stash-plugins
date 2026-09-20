@@ -56,6 +56,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 - Tag Merge Auto（仅标准库，无需 pip 安装）
 - Studio Tools Auto（仅标准库，无需 pip 安装）
 - Scene Translate Auto（仅标准库，无需 pip 安装）
+- Javstash Autofill+（仅标准库，无需 pip 安装）
 
 **Docker 部署**：Stash 官方镜像已预装 Python。
 
