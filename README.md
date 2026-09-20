@@ -100,7 +100,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 |------|------|
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto 源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto + javstashAutofill+ 源码 + Release |
 
 ## License
 

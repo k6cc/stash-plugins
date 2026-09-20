@@ -87,3 +87,11 @@
   date: 2026-09-12 09:46:07
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslateAuto-v1.2.0/sceneTranslateAuto-v1.2.0.zip
   sha256: fc870e6b91b457c169c9c2bdffa9340c03a2581a3d8da07f733205e922f92e02
+- id: javstashAutofill+
+  name: Javstash Autofill+
+  metadata:
+    description: Auto-fills new performers from JAVStash (empty fields only, stash_id written); new scenes looked up by oshash with empty fields filled and stash_id appended; a manual task backfills existing scenes.
+  version: 0.0.0
+  date: 2026-09-20 01:50:00
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v0.0.0/javstashAutofill+-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
