@@ -30,7 +30,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Tag Merge Auto | 1.1.0 | 纯后台 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools Auto | 1.1.2 | 纯后台 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Scene Translate Auto | 1.2.0 | 纯后台 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Javstash Autofill+ | 1.0.4 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Javstash Autofill+ | 1.0.5 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
