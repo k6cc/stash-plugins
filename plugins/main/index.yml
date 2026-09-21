@@ -91,7 +91,7 @@
   name: Javstash Autofill+
   metadata:
     description: Auto-fills new performers from JAVStash (empty fields only, stash_id written); new scenes looked up by oshash with empty fields filled and stash_id appended; a manual task backfills existing scenes.
-  version: 1.1.2
-  date: 2026-09-21 02:07:54
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.1.2/javstashAutofill+-v1.1.2.zip
-  sha256: d6ffa0bb1dcd60f1d5b955124b6c67c2bc28db62c2f01be4992a692157b7a480
+  version: 1.1.3
+  date: 2026-09-21 08:10:23
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.1.3/javstashAutofill+-v1.1.3.zip
+  sha256: 8808b92d539f6d3df140dd507c9bfb0a90067fbf03e9d97679e4436b9b57985e
