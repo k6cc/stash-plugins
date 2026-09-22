@@ -95,3 +95,12 @@
   date: 2026-09-22 04:24:52
   path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.2.4/javstashAutofill+-v1.2.4.zip
   sha256: d65deffaff738613638c7001b56ea3c8080484ffd18ed792b1eb53d2aff93d8d
+
+- id: oStatsI18n
+  name: O Stats I18n
+  metadata:
+    description: Adds O stats and watch-time tracking to the stats page with bilingual (中文/EN) UI following the Stash interface language.
+  version: 0.0.0
+  date: 2026-09-22 21:28:34
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/oStatsI18n-v0.0.0/oStatsI18n-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
