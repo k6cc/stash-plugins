@@ -10,10 +10,10 @@
   name: nfoSceneParser
   metadata:
     description: Fills scene data from NFO or filename pattern (jav fork - do NOT install alongside upstream nfoSceneParser)
-  version: 1.6.2
-  date: 2026-08-31 00:19:18
-  path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.6.2/nfoSceneParser-v1.6.2.zip
-  sha256: 3bf51a01f17ae34f2e2f05d68535288c753043e8a3e837f537116b0f81ecf1ba
+  version: 1.7.0
+  date: 2026-09-23 23:33:50
+  path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.7.0/nfoSceneParser-v1.7.0.zip
+  sha256: ab9275f5ae30b1725007aeb0989bbda5bc0420746445c099743b0906e1037b21
 - id: sceneTranslate
   name: Scene Translate
   metadata:
