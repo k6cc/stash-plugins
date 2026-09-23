@@ -34,10 +34,10 @@
   name: Studio Tools
   metadata:
     description: Studio page toolkit - merge studios and search/update from StashDB.
-  version: 1.5.4
-  date: 2026-09-23 08:47:11
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioTools-v1.5.4/studioTools-v1.5.4.zip
-  sha256: 3915919bf630f6f408a41a450fa50972d8b45b11a30f7bb030845be16b190653
+  version: 1.5.5
+  date: 2026-09-23 10:06:48
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/studioTools-v1.5.5/studioTools-v1.5.5.zip
+  sha256: 4d1c30d40d969442583d96c26156f37a7277382bea6cb7963faf847b659f1766
 - id: JavStashLinker
   name: JavStashLinker
   metadata:
