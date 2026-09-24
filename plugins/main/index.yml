@@ -67,10 +67,10 @@
   name: Tag Merge Auto
   metadata:
     description: Automatic tag merge with zero UI - new tags merge into canonical targets on creation, a manual task sweeps pre-existing ones; same local mapping database as Tag Merge.
-  version: 1.2.1
-  date: 2026-09-24 03:51:40
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMergeAuto-v1.2.1/tagMergeAuto-v1.2.1.zip
-  sha256: 0e47960b07f746100e0c2acfeef917284fa8528a4c87aeb17630d38742806021
+  version: 1.2.2
+  date: 2026-09-24 11:58:20
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMergeAuto-v1.2.2/tagMergeAuto-v1.2.2.zip
+  sha256: 481ae0e764a01a63c86b01bbec99f1468cfcc629fcc7f9e5adc412b2186a1781
 - id: studioToolsAuto
   name: Studio Tools Auto
   metadata:
