@@ -83,10 +83,10 @@
   name: Scene Translate Auto
   metadata:
     description: Automatic scene title/details translation with zero UI - translates on scene create/update, a manual task sweeps the backlog; same engines as Scene Translate.
-  version: 1.3.0
-  date: 2026-09-30 23:49:12
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslateAuto-v1.3.0/sceneTranslateAuto-v1.3.0.zip
-  sha256: cfcc0385735228ec9dea96184649624c97260d24e6aecc98ea51c73f9892d93b
+  version: 1.3.1
+  date: 2026-10-01 00:49:09
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslateAuto-v1.3.1/sceneTranslateAuto-v1.3.1.zip
+  sha256: 2a27dcb9e017cea2b95f50e0bba865c3a95e7c0c9509556816d8cc63942a57b8
 - id: javstashAutofill+
   name: Javstash Autofill+
   metadata:
