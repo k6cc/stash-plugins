@@ -104,3 +104,12 @@
   date: 2026-09-22 21:30:49
   path: https://github.com/k6cc/stash-jav-tools/releases/download/oStatsI18n-v1.0.0/oStatsI18n-v1.0.0.zip
   sha256: 42b33aa60295f96f6cc8e5a0baef164e39ce9e21d1991639381a69676a233972
+
+- id: stashDiscover
+  name: stashDiscover
+  metadata:
+    description: Adds a "Missing Scenes" tab to performer pages, discovering scenes from configured stash-box instances that are not in the local library. Browse covers, view details, save to Stash, and search/download resources via Jackett.
+  version: 0.0.0
+  date: 2026-10-01 20:09:16
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v0.0.0/stashDiscover-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
