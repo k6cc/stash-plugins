@@ -32,7 +32,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Scene Translate Auto | 1.3.1 | 纯后台 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Javstash Autofill+ | 1.3.1 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | O Stats I18n | 1.0.0 | Python + UI | 统计页 O 统计与观看时长追踪（O Stats 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| stashDiscover | 1.1.0 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| stashDiscover | 1.1.1 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
 
