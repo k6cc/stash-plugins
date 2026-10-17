@@ -136,10 +136,10 @@
   name: Xenith I18n
   metadata:
     description: "Performer/scene Elo battle rating and leaderboard (Xenith, 争锋): head-to-head / gauntlet / champion modes, writing ratings and records into Stash custom fields, with bilingual (中文/EN) UI following the Stash interface language."
-  version: 0.0.0
-  date: 2026-10-18 03:31:32
-  path: https://github.com/k6cc/stash-i18n/releases/download/XenithI18n-v0.0.0/XenithI18n-v0.0.0.zip
-  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+  version: 3.2.0
+  date: 2026-10-18 03:32:17
+  path: https://github.com/k6cc/stash-i18n/releases/download/XenithI18n-v3.2.0/XenithI18n-v3.2.0.zip
+  sha256: 9589effbd5b2a488cfd4881ea7b960f752256adabec1d1dd38f20cf9d5062f65
 
 - id: stashDiscover
   name: stashDiscover
