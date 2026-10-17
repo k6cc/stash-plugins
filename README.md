@@ -31,7 +31,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Studio Tools Auto | 1.1.3 | 纯后台 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Scene Translate Auto | 1.3.1 | 纯后台 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Javstash Autofill+ | 1.3.1 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| O Stats I18n | 1.0.0 | Python + UI | 统计页 O 统计与观看时长追踪（O Stats 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| O Stats I18n | 1.0.0 | Python + UI | 统计页 O 统计与观看时长追踪（O Stats 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | stashDiscover | 1.1.1 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
@@ -106,7 +106,8 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 |------|------|
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto + javstashAutofill+ + oStatsI18n + stashDiscover 源码 + Release |
+| [stash-i18n](https://github.com/k6cc/stash-i18n) | 第三方插件汉化版（i18n）源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto + javstashAutofill+ + stashDiscover 源码 + Release |
 
 ## License
 
