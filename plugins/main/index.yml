@@ -132,6 +132,15 @@
   path: https://github.com/k6cc/stash-i18n/releases/download/AscensionI18n-v1.4.4/AscensionI18n-v1.4.4.zip
   sha256: ff6de04f181ee72eb90cf637558dc39c7cdef5f86676024a1f8e0d089f5d7766
 
+- id: XenithI18n
+  name: Xenith I18n
+  metadata:
+    description: "Performer/scene Elo battle rating and leaderboard (Xenith, 争锋): head-to-head / gauntlet / champion modes, writing ratings and records into Stash custom fields, with bilingual (中文/EN) UI following the Stash interface language."
+  version: 0.0.0
+  date: 2026-10-18 03:31:32
+  path: https://github.com/k6cc/stash-i18n/releases/download/XenithI18n-v0.0.0/XenithI18n-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+
 - id: stashDiscover
   name: stashDiscover
   metadata:
