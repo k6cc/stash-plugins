@@ -1,0 +1,27 @@
+name: Validate index.yml
+
+# Stash reads plugins/main/index.yml as its plugin source list: one unparseable
+# line ("yaml: line N: mapping values are not allowed in this context") makes
+# Stash reject the whole list. Fail the commit's checks instead of serving it.
+
+on:
+  push:
+    paths:
+      - 'plugins/main/index.yml'
+  pull_request:
+    paths:
+      - 'plugins/main/index.yml'
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install PyYAML
+        run: python3 -m pip install --quiet pyyaml
+
+      - name: Validate plugins/main/index.yml
+        run: python3 scripts/validate_index.py plugins/main/index.yml
