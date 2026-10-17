@@ -117,7 +117,7 @@
 - id: InsightsI18n
   name: Insights I18n
   metadata:
-    description: Statistics dashboard for the Stash stats page: You / Actions / Library / Files and quality / Metadata health / Collection (and Movies with Movies Toolkit), with bilingual (中文/EN) UI following the Stash interface language.
+    description: "Statistics dashboard for the Stash stats page: You / Actions / Library / Files and quality / Metadata health / Collection (and Movies with Movies Toolkit), with bilingual (中文/EN) UI following the Stash interface language."
   version: 2.10.1
   date: 2026-10-17 20:12:34
   path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.10.1/InsightsI18n-v2.10.1.zip
