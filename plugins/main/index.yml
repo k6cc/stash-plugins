@@ -127,10 +127,10 @@
   name: Ascension I18n
   metadata:
     description: "Performer/scene rating and tier system (Ascension): real-time Elo battle scoring with S~F tiers across four modes (head-to-head / placement / champion / scenes), with bilingual (中文/EN) UI following the Stash interface language."
-  version: 1.4.3
-  date: 2026-10-18 01:04:32
-  path: https://github.com/k6cc/stash-i18n/releases/download/AscensionI18n-v1.4.3/AscensionI18n-v1.4.3.zip
-  sha256: 5b91c26b99a51ede9d1e0a818f7db6c8a2423f873458cf692d43fbb7a9da96d0
+  version: 1.4.4
+  date: 2026-10-18 01:42:55
+  path: https://github.com/k6cc/stash-i18n/releases/download/AscensionI18n-v1.4.4/AscensionI18n-v1.4.4.zip
+  sha256: ff6de04f181ee72eb90cf637558dc39c7cdef5f86676024a1f8e0d089f5d7766
 
 - id: stashDiscover
   name: stashDiscover
