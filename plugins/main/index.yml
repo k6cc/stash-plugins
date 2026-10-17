@@ -123,6 +123,15 @@
   path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.10.2/InsightsI18n-v2.10.2.zip
   sha256: cf2712852c563a066e90e39f6248d44128e4ea9bd2f388bd5e01d6eb22130f72
 
+- id: AscensionI18n
+  name: Ascension I18n
+  metadata:
+    description: "Performer/scene rating and tier system (Ascension): real-time Elo battle scoring with S~F tiers across four modes (head-to-head / placement / champion / scenes), with bilingual (中文/EN) UI following the Stash interface language."
+  version: 0.0.0
+  date: 2026-10-17 23:56:23
+  path: https://github.com/k6cc/stash-i18n/releases/download/AscensionI18n-v0.0.0/AscensionI18n-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+
 - id: stashDiscover
   name: stashDiscover
   metadata:
