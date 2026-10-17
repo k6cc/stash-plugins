@@ -114,6 +114,15 @@
   path: https://github.com/k6cc/stash-i18n/releases/download/LockdownI18n-v2.7.0/LockdownI18n-v2.7.0.zip
   sha256: 9111aba92ee39150d6b78f765926bf39b85dd0eedaf61d19a043cbe05e495e05
 
+- id: InsightsI18n
+  name: Insights I18n
+  metadata:
+    description: Statistics dashboard for the Stash stats page: You / Actions / Library / Files and quality / Metadata health / Collection (and Movies with Movies Toolkit), with bilingual (中文/EN) UI following the Stash interface language.
+  version: 0.0.0
+  date: 2026-10-17 00:00:00
+  path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v0.0.0/InsightsI18n-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
+
 - id: stashDiscover
   name: stashDiscover
   metadata:
