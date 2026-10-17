@@ -34,7 +34,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | O Stats I18n | 1.1.0 | Python + UI | 统计页 O 统计与观看时长追踪（O Stats 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Lockdown I18n | 2.7.0 | 纯 UI | 把 Stash 锁定在演员/工作室/标签上直到脱身（Lockdown 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Insights I18n | 2.10.2 | 纯 UI | 统计页数据仪表盘：你/操作/库/文件与画质/元数据健康/收藏（Insights 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
-| Ascension I18n | 1.4.2 | Python + UI | 演员与场景的评级/分档系统（Ascension 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
+| Ascension I18n | 1.4.3 | Python + UI | 演员与场景的评级/分档系统（Ascension 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | stashDiscover | 1.1.1 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 
 ## 安装方法
