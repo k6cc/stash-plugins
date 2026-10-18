@@ -149,3 +149,12 @@
   date: 2026-10-02 10:58:03
   path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v1.1.1/stashDiscover-v1.1.1.zip
   sha256: 45b82f15e87e946f9bd9c0e19b745298d185660baea8ee49f87c7e092622ab9e
+
+- id: ImageMetaSync
+  name: ImageMetaSync
+  metadata:
+    description: "Backfills metadata (performers, studio, date, tags, title, code, urls, details) onto the images of a scene's gallery (cover/fanart/stills) from the linked scene. Galleries and scenes whose performers are ambiguous (0 or 2+) are skipped. Optional fallback for scenes without a gallery. Requires Python and requests."
+  version: 0.0.0
+  date: 2026-10-18 18:26:41
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/ImageMetaSync-v0.0.0/ImageMetaSync-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
