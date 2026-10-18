@@ -158,3 +158,12 @@
   date: 2026-10-18 19:09:39
   path: https://github.com/k6cc/stash-jav-tools/releases/download/ImageMetaSync-v1.0.0/ImageMetaSync-v1.0.0.zip
   sha256: 8c247c0916a6e8b22315e112e708e3ed948b574e66c6e9dcb68b227a1fcc91f3
+
+- id: CollapsablePluginSettingsI18n
+  name: Collapsable Plugin Settings I18n
+  metadata:
+    description: "Makes the plugin groups of Settings → Plugins and Settings → Tasks → Plugin Tasks collapsible, searchable and sortable, plus an optional slider replacing the Enable/Disable buttons, with bilingual (中文/EN) UI following the Stash interface language."
+  version: 0.0.0
+  date: 2026-10-18 20:34:14
+  path: https://github.com/k6cc/stash-i18n/releases/download/CollapsablePluginSettingsI18n-v0.0.0/CollapsablePluginSettingsI18n-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
