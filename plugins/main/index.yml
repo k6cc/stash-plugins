@@ -118,10 +118,10 @@
   name: Insights I18n
   metadata:
     description: "Statistics dashboard for the Stash stats page: You / Actions / Library / Files and quality / Metadata health / Collection (and Movies with Movies Toolkit), with bilingual (中文/EN) UI following the Stash interface language."
-  version: 2.11.0-1
-  date: 2026-10-18 19:35:09
-  path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.11.0-1/InsightsI18n-v2.11.0-1.zip
-  sha256: 1c1a7fe5c1e3559913c3d4d0c2afb8a324edf95d4519b69b073558c2f1ed6b4d
+  version: 2.12.0-1
+  date: 2026-10-19 20:50:17
+  path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.12.0-1/InsightsI18n-v2.12.0-1.zip
+  sha256: 8adcd9cac46cf9a8b8e7a525e0e1f4db4b56e407683d5693f50109a32bee6c66
 
 - id: AscensionI18n
   name: Ascension I18n
