@@ -145,10 +145,10 @@
   name: stashDiscover
   metadata:
     description: Adds a "Missing Scenes" tab to performer pages, discovering scenes from configured stash-box instances that are not in the local library. Browse covers, view details, save to Stash, and search/download resources via Jackett.
-  version: 2.2.5
-  date: 2026-10-26 10:56:33
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.2.5/stashDiscover-v2.2.5.zip
-  sha256: 562b0eeab97a07d1fd1bcedd4a900b63f288f5fbac7d2e8a1d9e8421e5dcf865
+  version: 2.2.6
+  date: 2026-10-26 11:20:15
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.2.6/stashDiscover-v2.2.6.zip
+  sha256: cb6f6f7de2d7efc0d2baf1d3022abf20b6ce6a5711197b6c6af6b96f7efccd0f
 
 - id: ImageMetaSync
   name: ImageMetaSync
