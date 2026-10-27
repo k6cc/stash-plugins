@@ -58,10 +58,10 @@
   name: Tag Merge
   metadata:
     description: Merge similar tags (EN/JP/CN variants) into canonical Chinese tags based on an editable mapping database.
-  version: 2.7.5
-  date: 2026-09-25 23:24:52
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMerge-v2.7.5/tagMerge-v2.7.5.zip
-  sha256: c97607d34482a7e92c0942b571d0c6f5e68c61955f6e7d0ec8064535c983c24d
+  version: 2.7.6
+  date: 2026-10-27 10:24:00
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMerge-v2.7.6/tagMerge-v2.7.6.zip
+  sha256: 35b1fa7eaa9a341a0c7a0db3f29fcf691d8a15174615b56e3e4df7429f4b65bb
 
 - id: tagMergeAuto
   name: Tag Merge Auto
