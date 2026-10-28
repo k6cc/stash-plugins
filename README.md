@@ -36,7 +36,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Insights I18n | 2.13.0-1 | 纯 UI | 统计页数据仪表盘：你/操作/库/文件与画质/元数据健康/收藏（Insights 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Ascension I18n | 1.4.1-4 | Python + UI | 演员与场景的评级/分档系统（Ascension 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Xenith I18n | 3.2.1 | Python + UI | 演员与场景的 Elo 对决评分与排行榜（Xenith 多语言重构，中文名「争锋」，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
-| stashDiscover | 2.4.7 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| stashDiscover | 2.5.0 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | ImageMetaSync | 1.0.0 | 纯后台 | 把场景元数据（演员/工作室/日期/tag/标题/番号）回填到图库图片（封面/fanart/剧照），多演员/无演员图库跳过 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Collapsable Plugin Settings I18n | 0.10.7-1 | 纯 UI | 「设置 → 插件」与「设置 → 任务 → 插件任务」的插件分组可折叠/可搜索/可排序，并可用滑块代替启用/禁用按钮（Collapsable Plugin Settings 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 
