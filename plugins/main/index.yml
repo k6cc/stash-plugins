@@ -181,7 +181,7 @@
   name: Tasks Toolkit I18n
   metadata:
     description: "把 Stash 自己的任务（扫描、生成、识别、自动打标签、备份）与各工具包的只读扫描集中到一处：Autopilot 自动巡检、固定顺序的安全队列、定时例程与调度器守护进程、任务查看与最近 200 条历史，界面文案跟随 Stash 界面语言（中文/英文）。"
-  version: 0.0.0
-  date: 2026-10-31 01:13:12
-  path: https://github.com/k6cc/stash-i18n/releases/download/TasksToolkitI18n-v0.0.0/TasksToolkitI18n-v0.0.0.zip
-  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+  version: 0.6.4-1
+  date: 2026-10-31 01:14:56
+  path: https://github.com/k6cc/stash-i18n/releases/download/TasksToolkitI18n-v0.6.4-1/TasksToolkitI18n-v0.6.4-1.zip
+  sha256: 77a4be2566554f64670b32f930d9938758215b00df12abd0098f1531f4af769d
