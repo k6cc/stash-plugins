@@ -99,7 +99,7 @@
 - id: oStatsI18n
   name: O Stats I18n
   metadata:
-    description: Adds O stats and watch-time tracking to the stats page with bilingual (中文/EN) UI following the Stash interface language.
+    description: 为统计页加入 O 统计与观看时长追踪，界面文案跟随 Stash 界面语言（中文/英文）。
   version: 2.2.0-2
   date: 2026-10-30 13:44:30
   path: https://github.com/k6cc/stash-i18n/releases/download/oStatsI18n-v2.2.0-2/oStatsI18n-v2.2.0-2.zip
