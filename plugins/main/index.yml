@@ -172,7 +172,7 @@
   name: O Cheevs I18n
   metadata:
     description: "为 Stash 添加成就系统：观看时长、O 数与观看视频数三类成就，分普通至传说五档，达成弹提示，含独立成就页面与顶栏奖杯入口，进度存盘于插件目录（O Cheevs 多语言重构，中文/英文跟随 Stash 界面语言）。"
-  version: 0.0.0
-  date: 2026-10-30 15:38:13
-  path: https://github.com/k6cc/stash-i18n/releases/download/OCheevsI18n-v0.0.0/OCheevsI18n-v0.0.0.zip
-  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+  version: 0.3.0-1
+  date: 2026-10-30 15:39:46
+  path: https://github.com/k6cc/stash-i18n/releases/download/OCheevsI18n-v0.3.0-1/OCheevsI18n-v0.3.0-1.zip
+  sha256: 9326e8ec2d7ade92c29828c60712ef0c45ea0bf075b1781c0d6b91dd3a0da465
