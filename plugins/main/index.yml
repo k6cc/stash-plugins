@@ -1,7 +1,7 @@
 - id: binge
   name: Binge
   metadata:
-    description: 为 Stash 加入 Instagram 风格的社交与发现层：故事、竖屏信息流、演员主页，以及由 StashDB 驱动的关注/发现（汉化版）。
+    description: Instagram-shaped social + discovery layer for Stash - stories, vertical reel, performer profiles, and StashDB-powered Follow/Discover. (Chinese localization)
   version: 0.10.9
   date: 2026-10-18 07:10:38
   path: https://github.com/k6cc/binge-cn/releases/download/v0.10.9/binge-v0.10.9.zip
@@ -9,7 +9,7 @@
 - id: nfoSceneParser
   name: nfoSceneParser
   metadata:
-    description: 从 NFO 或文件名模式填充场景数据（JAV 分支，请勿与上游 nfoSceneParser 同时安装）。
+    description: Fills scene data from NFO or filename pattern (jav fork - do NOT install alongside upstream nfoSceneParser)
   version: 1.7.0
   date: 2026-09-23 23:33:50
   path: https://github.com/k6cc/nfoSceneParser-jav/releases/download/v1.7.0/nfoSceneParser-v1.7.0.zip
@@ -17,7 +17,7 @@
 - id: sceneTranslate
   name: Scene Translate
   metadata:
-    description: 为场景、图片与图库编辑页添加一键翻译按钮，支持 Google 免费、Google API、微软、百度、DeepL 与 OpenAI 引擎。
+    description: Add one-click translate buttons to scene, image, and gallery edit pages. Supports Google Free, Google API, Microsoft, Baidu, DeepL, and OpenAI engines.
   version: 2.9.4
   date: 2026-10-27 09:00:34
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslate-v2.9.4/sceneTranslate-v2.9.4.zip
@@ -25,7 +25,7 @@
 - id: sceneGallerySync
   name: sceneGallerySync
   metadata:
-    description: 为具有匹配元数据、封面与 fanart 图片的场景自动创建图库。
+    description: Automatically creates galleries for scenes with matching metadata, cover, and fanart images
   version: 1.9.8
   date: 2026-10-27 10:22:46
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneGallerySync-v1.9.8/sceneGallerySync-v1.9.8.zip
@@ -33,7 +33,7 @@
 - id: studioTools
   name: Studio Tools
   metadata:
-    description: 工作室页工具集：合并工作室，并从 StashDB 搜索/更新。
+    description: Studio page toolkit - merge studios and search/update from StashDB.
   version: 1.5.10
   date: 2026-10-27 10:23:21
   path: https://github.com/k6cc/stash-jav-tools/releases/download/studioTools-v1.5.10/studioTools-v1.5.10.zip
@@ -41,7 +41,7 @@
 - id: JavStashLinker
   name: JavStashLinker
   metadata:
-    description: 通过基于场景的反查、番号匹配与别名匹配，批量匹配 JAVStash 演员 ID。
+    description: Batch match JAVStash performer IDs via scene-based reverse lookup, code matching, and alias matching
   version: 1.5.11
   date: 2026-10-27 10:23:21
   path: https://github.com/k6cc/stash-jav-tools/releases/download/JavStashLinker-v1.5.11/JavStashLinker-v1.5.11.zip
@@ -49,7 +49,7 @@
 - id: performerMerge
   name: Performer Merge
   metadata:
-    description: 找出名称/别名重复的演员并合并为一个演员。需要 Stash v0.31.0+。
+    description: Find performers with duplicate names/aliases and merge them into one performer. Requires Stash v0.31.0+.
   version: 1.6.7
   date: 2026-10-27 10:24:01
   path: https://github.com/k6cc/stash-jav-tools/releases/download/performerMerge-v1.6.7/performerMerge-v1.6.7.zip
@@ -57,7 +57,7 @@
 - id: tagMerge
   name: Tag Merge
   metadata:
-    description: 按可编辑的映射库，把相似标签（英/日/中变体）合并为规范中文标签。
+    description: Merge similar tags (EN/JP/CN variants) into canonical Chinese tags based on an editable mapping database.
   version: 2.7.6
   date: 2026-10-27 10:24:00
   path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMerge-v2.7.6/tagMerge-v2.7.6.zip
@@ -66,7 +66,7 @@
 - id: tagMergeAuto
   name: Tag Merge Auto
   metadata:
-    description: 零界面自动合并标签：新标签创建时即并入规范目标，手动任务清理存量；与 Tag Merge 共用本地映射库。
+    description: Automatic tag merge with zero UI - new tags merge into canonical targets on creation, a manual task sweeps pre-existing ones; same local mapping database as Tag Merge.
   version: 1.2.5
   date: 2026-09-25 03:21:25
   path: https://github.com/k6cc/stash-jav-tools/releases/download/tagMergeAuto-v1.2.5/tagMergeAuto-v1.2.5.zip
@@ -74,7 +74,7 @@
 - id: studioToolsAuto
   name: Studio Tools Auto
   metadata:
-    description: 零界面自动整理工作室：从配置的 Stash-box 实例抓取新工作室，合并重复或就地补全；手动任务清理存量。
+    description: Automatic studio cleanup with zero UI - scrapes new studios from configured Stash-box instances, merges duplicates or fills in-place; a manual task sweeps the backlog.
   version: 1.1.3
   date: 2026-09-24 15:31:18
   path: https://github.com/k6cc/stash-jav-tools/releases/download/studioToolsAuto-v1.1.3/studioToolsAuto-v1.1.3.zip
@@ -82,7 +82,7 @@
 - id: sceneTranslateAuto
   name: Scene Translate Auto
   metadata:
-    description: 零界面自动翻译场景标题/简介：场景创建或更新时翻译，手动任务清理存量；引擎与 Scene Translate 相同。
+    description: Automatic scene title/details translation with zero UI - translates on scene create/update, a manual task sweeps the backlog; same engines as Scene Translate.
   version: 1.3.1
   date: 2026-10-01 00:49:09
   path: https://github.com/k6cc/stash-jav-tools/releases/download/sceneTranslateAuto-v1.3.1/sceneTranslateAuto-v1.3.1.zip
@@ -90,7 +90,7 @@
 - id: javstashAutofill+
   name: Javstash Autofill+
   metadata:
-    description: 从 JAVStash 自动补全新演员（仅空字段，写入 stash_id）；新场景按 oshash 反查并补全空字段、追加 stash_id；手动任务回填存量场景。
+    description: Auto-fills new performers from JAVStash (empty fields only, stash_id written); new scenes looked up by oshash with empty fields filled and stash_id appended; a manual task backfills existing scenes.
   version: 1.3.1
   date: 2026-09-26 04:38:04
   path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.3.1/javstashAutofill+-v1.3.1.zip
@@ -144,7 +144,7 @@
 - id: stashDiscover
   name: stashDiscover
   metadata:
-    description: 为演员页新增「缺失场景」标签：从配置的 stash-box 实例发现本地未拥有的场景，可浏览封面、查看详情、保存到 Stash，并经 Jackett 搜索/下载资源。
+    description: Adds a "Missing Scenes" tab to performer pages, discovering scenes from configured stash-box instances that are not in the local library. Browse covers, view details, save to Stash, and search/download resources via Jackett.
   version: 2.6.1
   date: 2026-10-30 13:45:18
   path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.6.1/stashDiscover-v2.6.1.zip
@@ -153,7 +153,7 @@
 - id: ImageMetaSync
   name: ImageMetaSync
   metadata:
-    description: "把关联场景的元数据（演员、工作室、日期、标签、标题、番号、链接、详情）回填到场景图库的图片（封面/fanart/剧照）；演员不明确（0 或 2 名以上）的图库与场景会跳过。可为无图库的场景提供可选回退。需要 Python 与 requests。"
+    description: "Backfills metadata (performers, studio, date, tags, title, code, urls, details) onto the images of a scene's gallery (cover/fanart/stills) from the linked scene. Galleries and scenes whose performers are ambiguous (0 or 2+) are skipped. Optional fallback for scenes without a gallery. Requires Python and requests."
   version: 1.0.0
   date: 2026-10-18 19:09:39
   path: https://github.com/k6cc/stash-jav-tools/releases/download/ImageMetaSync-v1.0.0/ImageMetaSync-v1.0.0.zip
