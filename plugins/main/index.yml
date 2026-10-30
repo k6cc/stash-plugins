@@ -176,3 +176,12 @@
   date: 2026-10-30 15:39:46
   path: https://github.com/k6cc/stash-i18n/releases/download/OCheevsI18n-v0.3.0-1/OCheevsI18n-v0.3.0-1.zip
   sha256: 9326e8ec2d7ade92c29828c60712ef0c45ea0bf075b1781c0d6b91dd3a0da465
+
+- id: TasksToolkitI18n
+  name: Tasks Toolkit I18n
+  metadata:
+    description: "把 Stash 自己的任务（扫描、生成、识别、自动打标签、备份）与各工具包的只读扫描集中到一处：Autopilot 自动巡检、固定顺序的安全队列、定时例程与调度器守护进程、任务查看与最近 200 条历史，界面文案跟随 Stash 界面语言（中文/英文）。"
+  version: 0.0.0
+  date: 2026-10-31 01:13:12
+  path: https://github.com/k6cc/stash-i18n/releases/download/TasksToolkitI18n-v0.0.0/TasksToolkitI18n-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
