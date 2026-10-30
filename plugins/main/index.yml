@@ -109,10 +109,10 @@
   name: Lockdown I18n
   metadata:
     description: Locks Stash to a performer, studio or tag until you get out, with bilingual (中文/EN) UI following the Stash interface language.
-  version: 2.11.0-1
-  date: 2026-10-23 14:10:03
-  path: https://github.com/k6cc/stash-i18n/releases/download/LockdownI18n-v2.11.0-1/LockdownI18n-v2.11.0-1.zip
-  sha256: 3c8aefd97dc7d02db466b162c593b2afc41afb98cf72a73efc8b29b7af8453ef
+  version: 2.20.0-1
+  date: 2026-10-30 15:10:48
+  path: https://github.com/k6cc/stash-i18n/releases/download/LockdownI18n-v2.20.0-1/LockdownI18n-v2.20.0-1.zip
+  sha256: 6a18a179a9fa2cfbab20b785750fee51a8d1b6678ada976acae295bae6bf423a
 
 - id: InsightsI18n
   name: Insights I18n
