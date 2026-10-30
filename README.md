@@ -39,6 +39,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | stashDiscover | 2.6.1 | Python + UI | 演员页「发现」标签：从 stash-box 实例发现本地未拥有的场景，加入库 / Jackett 搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | ImageMetaSync | 1.0.0 | 纯后台 | 把场景元数据（演员/工作室/日期/tag/标题/番号）回填到图库图片（封面/fanart/剧照），多演员/无演员图库跳过 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Collapsable Plugin Settings I18n | 0.10.7-1 | 纯 UI | 「设置 → 插件」与「设置 → 任务 → 插件任务」的插件分组可折叠/可搜索/可排序，并可用滑块代替启用/禁用按钮（Collapsable Plugin Settings 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
+| O Cheevs I18n | 0.3.0-1 | Python + UI | 成就系统：观看时长 / O 数 / 观看视频数三类成就，分普通至传说五档，达成弹提示，含独立成就页面与顶栏奖杯入口（O Cheevs 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 
 ## 安装方法
 
@@ -69,6 +70,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 - Scene Translate Auto（仅标准库，无需 pip 安装）
 - Javstash Autofill+（仅标准库，无需 pip 安装）
 - O Stats I18n（仅标准库，无需 pip 安装）
+- O Cheevs I18n（仅标准库，无需 pip 安装）
 - Ascension I18n（需 `requests`）
 - Xenith I18n（需 `stashapp-tools`，见插件内 requirements.txt）
 - stashDiscover（仅标准库，无需 pip 安装；需已配置 stash-box 实例，Jackett/qBittorrent 可选）
