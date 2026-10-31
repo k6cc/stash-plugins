@@ -144,7 +144,7 @@
 - id: stashDiscover
   name: stashDiscover
   metadata:
-    description: Adds a "Missing Scenes" tab to performer pages, discovering scenes from configured stash-box instances that are not in the local library. Browse covers, view details, save to Stash, and search/download resources via Jackett.
+    description: "Finds scenes on your stash-box instances that your library doesn't own yet — a Discover tab on performer and studio pages, plus a Discover page for new releases from the performers and studios you follow. Browse, save, and look for download sources."
   version: 2.6.5
   date: 2026-10-31 21:42:22
   path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.6.5/stashDiscover-v2.6.5.zip
