@@ -30,7 +30,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Tag Merge Auto | 1.2.5 | 纯后台 | 后台自动合并 tags（钩子 + 全库扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Studio Tools Auto | 1.1.3 | 纯后台 | 后台自动整理工作室（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Scene Translate Auto | 1.3.1 | 纯后台 | 后台自动翻译场景标题/简介（钩子 + 存量扫描） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Javstash Autofill+ | 1.3.1 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Javstash Autofill+ | 1.3.2 | 纯后台 | 新演员按名刮削 JAVStash 补全+stash_id；新场景按 oshash 补空白字段+stash_id；存量回填 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | O Stats I18n | 2.2.0-3 | Python + UI | 统计页 O 统计与观看时长追踪（O Stats 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Lockdown I18n | 2.20.0-1 | 纯 UI | 把 Stash 锁定在演员/工作室/标签上直到脱身（Lockdown 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Insights I18n | 2.14.1-1 | 纯 UI | 统计页数据仪表盘：你/操作/库/文件与画质/元数据健康/收藏（Insights 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
