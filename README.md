@@ -37,7 +37,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Ascension I18n | 1.4.1-4 | Python + UI | 演员与场景的评级/分档系统（Ascension 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Xenith I18n | 3.2.1 | Python + UI | 演员与场景的 Elo 对决评分与排行榜（Xenith 多语言重构，中文名「争锋」，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | stashDiscover | 2.6.6 | Python + UI | 演员页 / 工作室页「发现」标签 + 主导航「发现」页：找出 stash-box 上本地未拥有的场景，浏览、加入库、搜索资源 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| ImageMetaSync | 1.0.2 | 纯后台 | 把场景元数据（演员/工作室/日期/tag/标题/番号）回填到图库图片（封面/fanart/剧照），多演员/无演员图库跳过 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| ImageMetaSync | 1.0.3 | 纯后台 | 把场景元数据（演员/工作室/日期/tag/标题/番号）回填到图库图片（封面/fanart/剧照），多演员/无演员图库跳过 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Collapsable Plugin Settings I18n | 0.10.7-1 | 纯 UI | 「设置 → 插件」与「设置 → 任务 → 插件任务」的插件分组可折叠/可搜索/可排序，并可用滑块代替启用/禁用按钮（Collapsable Plugin Settings 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | O Cheevs I18n | 0.3.0-1 | Python + UI | 成就系统：观看时长 / O 数 / 观看视频数三类成就，分普通至传说五档，达成弹提示，含独立成就页面与顶栏奖杯入口（O Cheevs 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | Tasks Toolkit I18n | 0.6.4-1 | Python + UI | 把 Stash 自己的任务与各工具包的只读扫描集中到一处：Autopilot 自动巡检、安全队列、定时例程与调度器、任务查看与历史（Tasks Toolkit 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |

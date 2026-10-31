@@ -153,11 +153,11 @@
 - id: ImageMetaSync
   name: ImageMetaSync
   metadata:
-    description: Copies scene metadata (performers, studio, date, tags, title, code, urls) onto that scene's gallery images. Galleries without exactly one performer are skipped. Requires Python and requests.
-  version: 1.0.2
-  date: 2026-10-31 22:34:22
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/ImageMetaSync-v1.0.2/ImageMetaSync-v1.0.2.zip
-  sha256: 52c98e04a68297e25cb3cf5c729b787303390d2783af544db4586e11dc72cabd
+    description: "Copies scene metadata (performers, studio, date, tags, title, code, urls) onto that scene's gallery images. Galleries without exactly one performer are skipped. Requires Python and requests."
+  version: 1.0.3
+  date: 2026-11-01 00:48:56
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/ImageMetaSync-v1.0.3/ImageMetaSync-v1.0.3.zip
+  sha256: 64fe5e15cc74cb7d0941dbb2186ddf9de9f0fcd9cab9b82cdee684926fce3e70
 
 - id: CollapsablePluginSettingsI18n
   name: Collapsable Plugin Settings I18n
