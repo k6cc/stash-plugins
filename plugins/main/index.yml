@@ -118,10 +118,10 @@
   name: Insights I18n
   metadata:
     description: "统计页数据仪表盘：你 / 操作 / 库 / 文件与画质 / 元数据健康 / 收藏（装有 Movies Toolkit 时另有影片），界面文案跟随 Stash 界面语言（中文/英文）。"
-  version: 2.14.1-1
-  date: 2026-10-30 14:11:28
-  path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.14.1-1/InsightsI18n-v2.14.1-1.zip
-  sha256: fd00f56af103b7a2fc69138faa02bea27ea0085669d3335784a420a66e211c45
+  version: 2.15.0-1
+  date: 2026-11-07 04:00:57
+  path: https://github.com/k6cc/stash-i18n/releases/download/InsightsI18n-v2.15.0-1/InsightsI18n-v2.15.0-1.zip
+  sha256: 4bc8c2c06584937a61a4ed781f74cfe82c0fe2bc0177fdfe7b5baad085e501af
 
 - id: AscensionI18n
   name: Ascension I18n
