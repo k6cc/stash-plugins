@@ -109,10 +109,10 @@
   name: Lockdown I18n
   metadata:
     description: 把 Stash 锁定在演员（或双人）、工作室或标签上直到脱身，界面文案跟随 Stash 界面语言（中文/英文）。
-  version: 2.20.0-1
-  date: 2026-10-30 15:10:48
-  path: https://github.com/k6cc/stash-i18n/releases/download/LockdownI18n-v2.20.0-1/LockdownI18n-v2.20.0-1.zip
-  sha256: 6a18a179a9fa2cfbab20b785750fee51a8d1b6678ada976acae295bae6bf423a
+  version: 2.23.0-1
+  date: 2026-11-07 03:50:23
+  path: https://github.com/k6cc/stash-i18n/releases/download/LockdownI18n-v2.23.0-1/LockdownI18n-v2.23.0-1.zip
+  sha256: 9d63bdd1f9bdd7446c35624e8b8eb93f329ae5c9f3f83eca56a5f7612fde9e37
 
 - id: InsightsI18n
   name: Insights I18n
