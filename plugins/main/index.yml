@@ -100,10 +100,10 @@
   name: O Stats I18n
   metadata:
     description: 为统计页加入 O 统计与观看时长追踪，界面文案跟随 Stash 界面语言（中文/英文）。
-  version: 2.2.0-3
-  date: 2026-10-31 00:21:33
-  path: https://github.com/k6cc/stash-i18n/releases/download/oStatsI18n-v2.2.0-3/oStatsI18n-v2.2.0-3.zip
-  sha256: 1fceec5af64dec4990011466c70b953df252a84cadf29821a5feeb63ccc00434
+  version: 2.3.0-1
+  date: 2026-11-07 03:15:56
+  path: https://github.com/k6cc/stash-i18n/releases/download/oStatsI18n-v2.3.0-1/oStatsI18n-v2.3.0-1.zip
+  sha256: 12c25912a505fa464525f8ac1349757b4ae862bcb74ce8916be94a191542972c
 
 - id: LockdownI18n
   name: Lockdown I18n
