@@ -90,11 +90,11 @@
 - id: javstashAutofill+
   name: Javstash Autofill+
   metadata:
-    description: Autofills new scenes and performers from JAVStash, matching scenes by file hash. A manual task backfills existing scenes.
-  version: 1.3.2
-  date: 2026-10-31 22:34:21
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.3.2/javstashAutofill+-v1.3.2.zip
-  sha256: 64eda862659fb33c2ba68e29d28520e011d29d74a44a52a52c84510a008c1bf6
+    description: "Autofills new scenes and performers from JAVStash, matching scenes by file hash. A manual task backfills existing scenes."
+  version: 1.3.3
+  date: 2026-11-11 00:21:02
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/javstashAutofill+-v1.3.3/javstashAutofill+-v1.3.3.zip
+  sha256: 8169a454ab00ee422ed423e6136e5c132f3540d8fa10665abb8fd6d9c251720f
 
 - id: oStatsI18n
   name: O Stats I18n
