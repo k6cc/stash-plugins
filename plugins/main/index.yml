@@ -185,3 +185,12 @@
   date: 2026-11-07 04:13:34
   path: https://github.com/k6cc/stash-i18n/releases/download/TasksToolkitI18n-v0.6.6-1/TasksToolkitI18n-v0.6.6-1.zip
   sha256: 204ba995aca954592465f5180063d825ad6810f462ed71f5cee63337e8e016d0
+
+- id: peekaboo
+  name: Peekaboo
+  metadata:
+    description: "Replaces every cover, thumbnail and video frame with generated SVG art instead of a blur, and can mask titles, descriptions, names, tags, the tab title and copied text. Text stays capitalised like Stash itself and can be revealed for a moment by hovering or holding Shift. Nothing in the library is modified."
+  version: 0.0.0
+  date: 2026-11-12 01:04:46
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/peekaboo-v0.0.0/peekaboo-v0.0.0.zip
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
