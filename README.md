@@ -57,6 +57,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 - Studio Tools
 - Performer Merge
 - Tag Merge
+- Peekaboo
 - Lockdown I18n
 - Insights I18n
 - Collapsable Plugin Settings I18n
@@ -124,7 +125,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | [binge-cn](https://github.com/k6cc/binge-cn) | Binge 插件源码 + Release |
 | [nfoSceneParser-jav](https://github.com/k6cc/nfoSceneParser-jav) | nfoSceneParser 插件源码 + Release |
 | [stash-i18n](https://github.com/k6cc/stash-i18n) | 第三方插件汉化版（i18n）源码 + Release |
-| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto + javstashAutofill+ + stashDiscover + ImageMetaSync 源码 + Release |
+| [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) | sceneTranslate + sceneGallerySync + studioTools + JavStashLinker + performerMerge + tagMerge + Auto 系列 + sceneTranslateAuto + javstashAutofill+ + stashDiscover + ImageMetaSync + peekaboo 源码 + Release |
 
 ## License
 
