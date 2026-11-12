@@ -10,6 +10,11 @@ Usual trap: an unquoted description containing an ASCII colon + space, e.g.
     description: Things to know: here is why          # breaks
     description: "Things to know: here is why"        # fine
 
+Also cross-checks README.md, because three sections there are maintained by hand
+(the workflow only rewrites the version column): every plugin in index.yml must
+appear in the 包含的插件 table, in 前置依赖, and its release repo must appear in
+相关仓库. Without this, a newly added plugin silently stays unfindable in the docs.
+
 Usage:
     python3 scripts/validate_index.py [path/to/index.yml]
 """
@@ -28,6 +33,45 @@ SHA256 = re.compile(r"^[0-9a-f]{64}$")
 def fail(message: str) -> int:
     print(f"FAIL: {message}")
     return 1
+
+
+def section(text: str, heading: str) -> str:
+    """Return the body of a `## heading` block, or "" when absent."""
+    if heading not in text:
+        return ""
+    return text.split(heading, 1)[1].split("\n## ", 1)[0]
+
+
+def readme_drift(entries: list[dict], readme: str) -> list[str]:
+    """List plugins that index.yml has but a hand-maintained README section lacks."""
+    problems: list[str] = []
+
+    table = []
+    for line in section(readme, "## 包含的插件").splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [cell.strip() for cell in line.split("|")]
+        if len(cells) > 2 and cells[1] and not re.fullmatch(r":?-+:?", cells[1]):
+            table.append(cells[1])
+
+    deps = [re.split(r"[（(]", m.group(1))[0].strip()
+            for m in re.finditer(r"^-\s+(.+?)\s*$", section(readme, "## 前置依赖"), re.M)]
+
+    repos = set(re.findall(r"github\.com/[^/\s]+/([A-Za-z0-9_.-]+)", section(readme, "## 相关仓库")))
+
+    for entry in entries:
+        name = str(entry["name"])
+        if name not in table:
+            problems.append(f"{name}: missing from the 包含的插件 table")
+        if name not in deps:
+            problems.append(
+                f"{name}: missing from 前置依赖 — list it under 纯 UI 插件 (no Python) "
+                f"or Python 插件 (with requirements)"
+            )
+        repo = re.match(r"https://github\.com/[^/]+/([^/]+)/releases/", str(entry["path"]))
+        if repo and repo.group(1) not in repos:
+            problems.append(f"{name}: release repo {repo.group(1)} is missing from 相关仓库")
+    return problems
 
 
 def main(argv: list[str]) -> int:
@@ -66,7 +110,16 @@ def main(argv: list[str]) -> int:
         if not SHA256.match(str(entry["sha256"])):
             return fail(f"{plugin_id}: sha256 must be 64 lowercase hex characters")
 
-    print(f"OK: {target} — {len(entries)} entries, YAML parses")
+    readme = target.resolve().parents[2] / "README.md"
+    if readme.exists():
+        drift = readme_drift(entries, readme.read_text(encoding="utf-8"))
+        if drift:
+            return fail(
+                "README.md is out of sync with index.yml:\n       "
+                + "\n       ".join(drift)
+            )
+
+    print(f"OK: {target} — {len(entries)} entries, YAML parses, README in sync")
     return 0
 
 

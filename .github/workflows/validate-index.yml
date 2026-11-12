@@ -3,14 +3,19 @@ name: Validate index.yml
 # Stash reads plugins/main/index.yml as its plugin source list: one unparseable
 # line ("yaml: line N: mapping values are not allowed in this context") makes
 # Stash reject the whole list. Fail the commit's checks instead of serving it.
+#
+# The script also checks that README.md's hand-written sections (包含的插件,
+# 前置依赖, 相关仓库) mention every plugin, so README-only edits run it too.
 
 on:
   push:
     paths:
       - 'plugins/main/index.yml'
+      - 'README.md'
   pull_request:
     paths:
       - 'plugins/main/index.yml'
+      - 'README.md'
   workflow_dispatch: {}
 
 jobs:
