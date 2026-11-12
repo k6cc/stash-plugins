@@ -190,7 +190,7 @@
   name: Peekaboo
   metadata:
     description: "Masks every cover, thumbnail and video frame with generated SVG art instead of a blur, and can hide titles, descriptions, names, tags, the tab title and copied text. Hover a card or hold Shift to see the original for a moment. Nothing in the library is modified."
-  version: 0.1.2
-  date: 2026-11-12 09:38:35
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/peekaboo-v0.1.2/peekaboo-v0.1.2.zip
-  sha256: 5ca0a40ca22fd661155e0ddc144b4d7afb38e373c28542df89a0f280100ed2d6
+  version: 0.1.3
+  date: 2026-11-12 10:20:28
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/peekaboo-v0.1.3/peekaboo-v0.1.3.zip
+  sha256: b5bad4a0e8764cddca5f328dbe3a1857195aa5726f3877b38621f927013dc580
