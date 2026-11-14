@@ -145,10 +145,10 @@
   name: stashDiscover
   metadata:
     description: "Finds scenes on your stash-box instances that your library doesn't own yet — a Discover tab on performer and studio pages, plus a Discover page for new releases from the performers and studios you follow. Browse, save, find download sources, and push to qBittorrent, Motrix, or Whisparr."
-  version: 2.7.11
-  date: 2026-11-14 06:53:59
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.7.11/stashDiscover-v2.7.11.zip
-  sha256: 3714f56495c81426bba75729d07abb180249698066ee4b8bac249ec3f1fc2d1b
+  version: 2.8.0
+  date: 2026-11-14 20:44:49
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/stashDiscover-v2.8.0/stashDiscover-v2.8.0.zip
+  sha256: 16731461d884d8a404407c318a4c55921aa4ffa60d2bbcf38045e9197e314ea1
 
 - id: ImageMetaSync
   name: ImageMetaSync
