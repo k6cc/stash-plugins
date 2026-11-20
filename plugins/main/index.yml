@@ -194,3 +194,12 @@
   date: 2026-11-17 22:10:06
   path: https://github.com/k6cc/stash-jav-tools/releases/download/peekaboo-v1.0.1/peekaboo-v1.0.1.zip
   sha256: 583add0120ae374052b055e5b3b352b2f2448e897cb39d740e32e455fc84cdd6
+
+- id: SceneBackfill
+  name: Scene Backfill
+  metadata:
+    description: "Fills metadata-only scenes via Jackett/Prowlarr and qBittorrent/Motrix, or via Whisparr v3; finished files are scanned in place and linked back."
+  version: 0.0.0
+  date: 2026-11-20 00:00:00
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/SceneBackfill-v0.0.0/SceneBackfill-v0.0.0.zip
+  sha256: 0000000000000000000000000000000000000000000000000000000000000000
