@@ -199,7 +199,7 @@
   name: Scene Backfill
   metadata:
     description: "Fills metadata-only scenes via Jackett/Prowlarr and qBittorrent/Motrix, or via Whisparr v3; finished files are scanned in place and linked back."
-  version: 0.1.12
-  date: 2026-11-23 20:32:19
-  path: https://github.com/k6cc/stash-jav-tools/releases/download/SceneBackfill-v0.1.12/SceneBackfill-v0.1.12.zip
-  sha256: b34e252db7235bfb9acee1a65c765d609534f3c34db587629c6a70e20fc902f6
+  version: 0.1.13
+  date: 2026-11-24 09:12:37
+  path: https://github.com/k6cc/stash-jav-tools/releases/download/SceneBackfill-v0.1.13/SceneBackfill-v0.1.13.zip
+  sha256: efbb82b333f7a82fdb14caeeb817a0de281a36205ac2461b17ac69078d2f440d
