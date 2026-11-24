@@ -38,7 +38,7 @@ https://k6cc.github.io/stash-plugins/plugins/main/index.yml
 | Xenith I18n | 3.2.1 | Python + UI | 演员与场景的 Elo 对决评分与排行榜（Xenith 多语言重构，中文名「争锋」，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | stashDiscover | 2.8.8 | Python + UI | 演员页 / 工作室页「发现」标签 + 主导航「发现」页：找出 stash-box 上本地未拥有的场景，浏览、加入库、找资源、推送下载（qBittorrent / Motrix / Whisparr） | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | ImageMetaSync | 1.0.4 | 纯后台 | 把场景元数据（演员/工作室/日期/tag/标题/番号）回填到图库图片（封面/fanart/剧照），多演员/无演员图库跳过 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
-| Peekaboo | 1.1.0 | 纯 UI | 把所有封面/缩略图/视频画面换成生成的 SVG 图案（不是模糊），可连标题/简介/人名/别名/标签一起遮，stashDiscover / SceneBackfill 的界面一并覆盖；悬停或按住 Shift 临时露原图，可设定是否连文字一起露 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
+| Peekaboo | 1.1.1 | 纯 UI | 把所有封面/缩略图/视频画面换成生成的 SVG 图案（不是模糊），可连标题/简介/人名/别名/标签一起遮，stashDiscover / SceneBackfill 的界面一并覆盖；悬停或按住 Shift 临时露原图，可设定是否连文字一起露 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Scene Backfill | 0.1.14 | Python + UI | 把只有元数据、没有文件的场景补齐：搜资源、交给 qBittorrent / Motrix 或 Whisparr，完成后把文件关联回原场景；全程不搬动文件 | [stash-jav-tools](https://github.com/k6cc/stash-jav-tools) |
 | Collapsable Plugin Settings I18n | 0.11.3-1 | 纯 UI | 「设置 → 插件」与「设置 → 任务 → 插件任务」的插件分组提供全部折叠/全部展开、默认状态与排序，并可用滑块代替启用/禁用按钮（需 Stash 自身支持分组折叠；Collapsable Plugin Settings 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
 | O Cheevs I18n | 0.3.0-1 | Python + UI | 成就系统：观看时长 / O 数 / 观看视频数三类成就，分普通至传说五档，达成弹提示，含独立成就页面与顶栏奖杯入口（O Cheevs 多语言重构，中文/英文跟随 Stash 界面语言） | [stash-i18n](https://github.com/k6cc/stash-i18n) |
